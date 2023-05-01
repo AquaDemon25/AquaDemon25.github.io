@@ -1,10 +1,10 @@
 body{
 background-color: #2b2626;
-
+font-family: 'Castoro Titling', cursive;
 }
 head{
 font-family: 'Castoro Titling', cursive;
 }
 article{
-    font-size: 20px;
+    vertical-align: middle;
 }
